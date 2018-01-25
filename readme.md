@@ -1,4 +1,4 @@
-# Building basic slide show / image changer using pure javascript
+# Building basic slide show / slider / image changer using pure javascript
 Certainly we won't make a slideshow which will be production ready. It just for practicing js and building basic logic to work with js. In this video we will discuss about following 
 
 ## document.querySelector('css selector')
